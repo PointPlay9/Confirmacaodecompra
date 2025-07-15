@@ -1,0 +1,55 @@
+# Confirmacao decompra <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Obrigado pela sua compra!</title>
+  <!-- 710980341703780 -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '710980341703780'); // 710980341703780
+    fbq('track', 'Purchase'); // Marca o evento de Conversão (Compra)
+  </script>
+  <noscript>
+    <img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=SEU_PIXEL_ID&ev=PageView&noscript=1"/>
+  </noscript>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; margin-top: 70px; background: #f9f9f9;}
+    .container { background: #fff; border-radius: 8px; display: inline-block; padding: 50px 30px; }
+    h1 { color: #2d2d2d; }
+    .whatsapp-btn {
+      background-color: #25D366;
+      color: white;
+      border: none;
+      padding: 16px 36px;
+      border-radius: 24px;
+      margin-top: 20px;
+      font-size: 18px;
+      text-decoration: none;
+      display: inline-block;
+      font-weight: bold;
+      box-shadow: 0 2px 6px rgba(40,40,40,0.10);
+      transition: background .2s;
+    }
+    .whatsapp-btn:hover { background: #128C7E; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Compra Confirmada! 🎉</h1>
+    <p>Seu pagamento foi recebido com sucesso.<br>
+    Qualquer dúvida, fale conosco no WhatsApp.</p>
+    <a class="whatsapp-btn" href="https://wa.me/+551196693-5396" >
+      Falar no WhatsApp
+    </a>
+  </div>
+</body>
+</html>
