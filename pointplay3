@@ -13,12 +13,12 @@
     t.src=v;s=b.getElementsByTagName(e)[0];
     s.parentNode.insertBefore(t,s)}(window, document,'script',
     'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '710980341703780'); // Substitua pelo seu Pixel ID
+    fbq('init', '665915886273131'); // Substitua pelo seu Pixel ID
     fbq('track', 'Purchase'); // Marca o evento de Conversão (Compra)
   </script>
   <noscript>
     <img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=710980341703780&ev=PageView&noscript=1"/>
+    src="https://www.facebook.com/tr?id=665915886273131&ev=PageView&noscript=1"/>
   </noscript>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
@@ -46,7 +46,7 @@
   <div class="container">
     <h1>Compra Confirmada! 🎉</h1>
     <p>Seu pagamento foi recebido com sucesso.<br>
-    Qualquer dúvida, fale conosco no WhatsApp.</p>
+    É só clicar no botão abaixo para chamar e já salvar nosso número principal.</p>
     <a class="whatsapp-btn" href="https://wa.me/551166935396?text=Ol%C3%A1%2C%20acabei%20de%20fazer%20uma%20compra%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es" >
       Falar no WhatsApp
     </a>
